@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' display-mode='rendered' executeOnSourceChanges='false'>
+    <pages>
+        <page name='Welcome'/>
+        <page name='Why iOS'/>
+        <page name='Why iOS (Stats)'/>
+        <page name='Why Swift'/>
+        <page name='Hello world'/>
+        <page name='Constants'/>
+        <page name='Variables'/>
+        <page name='Type Inference I'/>
+        <page name='Type Inference II'/>
+        <page name='Collections'/>
+        <page name='Arrays - Creation'/>
+        <page name='Arrays - Append, Insert, Add'/>
+        <page name='Arrays - Access &amp; Replace'/>
+        <page name='Arrays - Remove'/>
+        <page name='Arrays - Empty &amp; Count &amp; Contains'/>
+        <page name='Arrays - Iterating &amp; Enumerate'/>
+        <page name='Dictionaries - Creation'/>
+        <page name='Dictionaries - Add, Replace'/>
+        <page name='Functions - Basics I'/>
+        <page name='Functions - Basics II'/>
+        <page name='Functions - Capuring Values'/>
+        <page name='Optionals'/>
+        <page name='Unwrapping An Optional'/>
+        <page name='Optional Chaining'/>
+        <page name='Map'/>
+        <page name='Filter'/>
+        <page name='Reduce'/>
+        <page name='Sort'/>
+        <page name='Structs - Definition'/>
+        <page name='Structs - Value Types'/>
+        <page name='Structs - Mutating'/>
+        <page name='Classes - Basics'/>
+        <page name='Classes - Inheritance'/>
+        <page name='Structs or Classes'/>
+        <page name='Structs vs Classes - Example'/>
+        <page name='Structs vs Classes - How to choose'/>
+        <page name='Enums'/>
+        <page name='Pattern Matching'/>
+        <page name='Error Handling'/>
+        <page name='Beyond iOS'/>
+        <page name='References'/>
+        <page name='Questions'/>
+        <page name='Swift Thinking'/>
+    </pages>
+</playground>
